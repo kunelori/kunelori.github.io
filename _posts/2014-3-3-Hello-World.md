@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Testing things
+title: To whom a pig oinks
 published: true
 ---
 
 ## Different titles
-### like this one
-# woohoo
+like this one
+woohoo
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
