@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-<link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl | prepend: site.url }}" />
+<link rel="shortcut icon" href="{{ "kunelori.github.io/images/favicon-32x32.png" | prepend: site.baseurl | prepend: site.url }}" />
 
 # Name of your site (displayed in the header)
 name: Deetangling Blog
