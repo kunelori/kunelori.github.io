@@ -4,7 +4,7 @@
 <link rel="shortcut icon" href="{{ "kunelori.github.io/images/favicon-32x32.png" | prepend: site.baseurl | prepend: site.url }}" />
 
 # Name of your site (displayed in the header)
-name: Deetangling Blog
+name: Deentangling Blog
 
 # Short bio or description (displayed in the header)
 description: Personal Blog to gather and order my thoughts 
