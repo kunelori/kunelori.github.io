@@ -23,6 +23,4 @@ Aenean ac libero eget nibh vulputate malesuada. Donec imperdiet est eget ultrici
 
 Nam ac augue dolor. Nam non leo velit. Fusce id velit nulla. Nullam ultrices tincidunt nunc, id congue massa vestibulum et. Praesent sed massa et ipsum dictum pulvinar. Vestibulum pharetra mauris eu ligula vulputate tristique eget in libero. Cras ultrices eros ut faucibus tincidunt. Etiam convallis lectus sed venenatis condimentum. Nam rhoncus, augue sit amet elementum fringilla, ex quam imperdiet dui, id ultricies enim ex ut.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
